@@ -1,10 +1,16 @@
 _repo: The-Maya-Indians-of-Southern-Yucatan-and-Northern-British-Honduras_46973
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46973-h/images/cover.jpg
 creator:
   author:
     agent_name: Gann, Thomas William Francis
     gutenberg_agent_id: '44065'
     url: http://www.gutenberg.org/2009/agents/44065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46973#The-Maya-Indians-of-Southern-Yucatan-and-Northern-British-Honduras
 gutenberg_issued: '2014-09-26'
 gutenberg_type: Text
 identifiers:
