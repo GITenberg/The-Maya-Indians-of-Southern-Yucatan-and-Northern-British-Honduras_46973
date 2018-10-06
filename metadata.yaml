@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Maya Indians of Southern Yucatan and Northern British Honduras
 url: http://www.gutenberg.org/ebooks/46973
